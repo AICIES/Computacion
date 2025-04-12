@@ -108,6 +108,10 @@ Emplea tuplas cuando necesites garantizar que los datos permanezcan constantes d
     # coordenadas[0] = 20.0
     ```
 
+### 1.4 Otras estructuras
+
+Existen muchas estructuras de datos en python y puedes ver sus particularidades en sitios web como [w3shools](https://www.w3schools.com/python/default.asp). Por ejemplo una estructura de datos que no se ha mensionado en esta guia son los diccionarios, pero w3schools provee [esta](https://www.w3schools.com/python/python_dictionaries.asp) documentación que es más que suficiente para comprender su funcionamiento.
+
 ---
 
 ## 2. Estructuras de Control

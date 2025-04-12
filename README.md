@@ -19,6 +19,7 @@ Este repositorio contiene el material teórico y práctico para el desarrollo y 
 - [**Comandos útiles de Git**](guides/git/git.md): Comandos más utilizados en Git para la gestión de versiones.
 
 ### 🐍 Python
+- [**Introducción**](guides/python/introduction.md): Variables, estructuras de datos, estructuras de decición, estructuras repetitivas y funciones.
 - [**Programación Orientada a Objetos (POO)**](guides/python/oop.md): Conceptos de POO aplicados en Python.
 - [**Python Debugger (ipdb)**](guides/python/ipdb.md): Uso de la herramienta de depuración `ipdb`.
 - [**Entorno Virtual en Python**](guides/python/venv.md): Para qué son y cómo crear y gestionar entornos virtuales en Python.
